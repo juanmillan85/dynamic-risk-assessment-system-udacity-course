@@ -1,0 +1,13 @@
+{
+	"input_folder_path": "practicedata",
+	"output_folder_path": "ingesteddata",
+	"test_data_path": "testdata",
+	"test_file": "testdata.csv",
+	"output_model_path": "practicemodels",
+	"output_model": "trained_model.pkl",
+	"prod_deployment_path": "production_deployment/",
+	"output_file": "finaldata.csv",
+	"ingest_file": "ingestedfiles.txt",
+	"label": "exited",
+	"numeric_cols": ["lastmonth_activity", "lastyear_activity", "number_of_employees"]
+}
